@@ -1,0 +1,8 @@
+a) 
+Pros: 
+- High flexibility
+- Fast delivery
+
+Cons: 
+- Less predictability
+- Less documentation
