@@ -12,3 +12,5 @@ The scrum master, on the other hand, coaches the team on Scrum rules and gets ri
 
 c) The three types of meetings during a spring cycle are daily standup, spring planning, and spring review/retrospective. 
 For sprint planing, the team sets a goal and chooses which tasks from the product backlog to tackle. In the daily standup, team members share what they finished yesterday, what they will do today, and any roadblocks. In the spring review/retrospective, the team shows completed work to stakeholders for feedback (the review) and discusses how to improve their teamwork and processes (the retrospective).
+
+d) In Jira, an epic is a large body of work that spans multiple sprints and groups related items together. A story is a feature or requirement told from the end user's point of view. A task is a catch-all item for general work that does not fit neatly into a user-facing story. Lastly, a bug is an error, flaw, or unexpected behavior in the product. 
