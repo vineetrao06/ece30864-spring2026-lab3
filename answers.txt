@@ -6,3 +6,6 @@ Pros:
 Cons: 
 - Less predictability
 - Less documentation
+
+b) The product owner defines the vision (such as creating the goal, strategy, etc) while also maintaining the backlog. 
+The scrum master, on the other hand, coaches the team on Scrum rules and gets rid of any type of blocker/distraction. Overall, both are essential in different ways in a corporate setting. 
